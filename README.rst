@@ -82,3 +82,4 @@ Sorting according to the provided key function is constant because the tree's
 traversal order is presorted. Length is recorded and updated on mutation.
 Nodes are persistent and altering the tree generally requires a logarithmic
 space commitment to create new nodes.
+[![Run on Repl.it](https://repl.it/badge/github/MostAwesomeDude/blackjack)](https://repl.it/github/MostAwesomeDude/blackjack)
